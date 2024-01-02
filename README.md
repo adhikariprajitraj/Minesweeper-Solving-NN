@@ -7,8 +7,7 @@ This project aims to develop an AI capable of solving Minesweeper games. It incl
 
 ### Prerequisites
 - Python 3.x
-- Additional Python libraries: `numpy`, `pytest`, `scikit-learn`/`tensorflow`/`pytorch` (depending on your AI implementation)
-
+- Additional Python libraries: `numpy`, `pytest`, `pytorch`
 ### Installation
 1. Clone the repository:
 ```git clone ```
